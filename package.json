@@ -1,0 +1,17 @@
+{
+  "name": "o-to-array",
+  "version": "1.0.0",
+  "description": "Convert object to Array. Array will contain [key, value] or only [value]. It depends on you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "convert",
+    "array",
+    "object"
+  ],
+  "author": "k4wo",
+  "license": "MIT"
+}
