@@ -11,4 +11,4 @@ const example = {
 };
 
 oToArray(example); // result in [value1, value2]
-oToArray(example, true); // result in [[key1, value1], [key1, value2]]
+oToArray(example, true); // result in [[key1, value1], [key2, value2]]
