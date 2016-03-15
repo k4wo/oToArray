@@ -1,5 +1,5 @@
 # oToArray
-Convert object to Array. Array will contain [**key**, **value**] or only **values**. It depends on you.
+Convert object to Array. Array will contain [**key**, **value**] or only **values**.
 
 
 ```javascript
